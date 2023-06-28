@@ -1,0 +1,16 @@
+.custom-img-size {
+    width: 250px; /* Cambia el valor según el ancho deseado */
+    height: 250px; /* Cambia el valor según la altura deseada */
+  }
+  #candidatosContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* Permite que las cards se envuelvan en caso de que haya muchas */
+  }
+
+  #img-contacto {
+
+    width: 50px;
+
+  }
