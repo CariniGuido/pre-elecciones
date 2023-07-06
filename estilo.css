@@ -71,7 +71,7 @@ cite {
 
 .contenedor {
   position: absolute;
-  top: 0;
+  top: 100px;
   left: 0;
   width: 400px;
   height: 400px;
